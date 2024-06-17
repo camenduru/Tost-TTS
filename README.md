@@ -13,8 +13,3 @@ https://arxiv.org/abs/2306.07691
 
 ### 🌐 Page
 https://styletts2.github.io/
-
-### 🖼 Output
-
-### 🏢 Sponsor
-https://runpod.io
