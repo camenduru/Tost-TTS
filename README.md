@@ -14,8 +14,8 @@ https://arxiv.org/abs/2306.07691
 ### 🌐 Page
 https://styletts2.github.io/
 
-### 📦 Base Model
-https://huggingface.co/yl4579/StyleTTS2-LibriTTS/tree/main/Models/LibriTTS
+### 📦 Model
+https://dagshub.com/tost-ai/Tost-TTS
 
 ### 🏢 Sponsor
 https://dagshub.com/
