@@ -11,7 +11,7 @@ https://tost.ai
 ### 🍊 Jupyter Notebook
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Tost-TTS-jupyter/blob/main/GRM_jupyter.ipynb) | Tost_TTS_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Tost-TTS/blob/main/Tost_TTS_v1_jupyter.ipynb) | Tost_TTS_v1_jupyter
 
 ### 📦 Model
 https://dagshub.com/tost-ai/Tost-TTS
