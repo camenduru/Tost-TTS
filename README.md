@@ -5,6 +5,9 @@
 ###  🥪 Tost TTS v1 (Homemade Model ❤)
 Tost TTS is a finetune of StyleTTS2 trained with 2x3090 on a [Non Profit GPU Cluster](https://github.com/camenduru/non-profit-gpu-cluster)
 
+### 📦 Base Model
+https://huggingface.co/yl4579/StyleTTS2-LibriTTS/tree/main/Models/LibriTTS
+
 ### 🧬 Code
 https://github.com/yl4579/StyleTTS2
 
@@ -13,3 +16,6 @@ https://arxiv.org/abs/2306.07691
 
 ### 🌐 Page
 https://styletts2.github.io/
+
+### 🏢 Sponsor
+https://dagshub.com/
