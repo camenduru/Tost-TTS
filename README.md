@@ -14,7 +14,7 @@ https://tost.ai
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Tost-TTS/blob/main/Tost_TTS_v1_jupyter.ipynb) | Tost_TTS_v1_jupyter
 
 ### 📦 Model
-https://dagshub.com/tost-ai/Tost-TTS
+https://dagshub.com/TostAI/Tost-TTS
 
 ### 🧬 Code
 https://github.com/yl4579/StyleTTS2
